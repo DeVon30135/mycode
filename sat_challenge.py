@@ -20,9 +20,9 @@ def main():
     # reverse_geocoder MUST be passed a tuple as the argument!
     coords= (lat, lon)
     results= rg.search(coords)[0]
-    state = results["cc"]
-    city = results["admin2"]
-    print(f"Location: {city}, {state}")
+    country = results["cc"]
+    city = results["name"]
+    print(f"Location: {city}, {country}")
 
 if __name__ == "__main__":
     main()
