@@ -1,0 +1,18 @@
+<head>
+    <meta charset="UTF-8">
+    <title>Riddle me this</title>
+    <form action = "/answer" method = "POST">
+        <p>What's blue and smells like red paint?</p>
+        <p><input type = "text" name = "answer"></p>
+	{% if solution == False %}
+        <p><input type = "submit" value = "submit"></p>
+	{% else %}
+	<p><input type = "submit" value = "Incorrect! Not {{solution}}! Try again!"></p>
+	{% endif %}
+    </form>
+</head>
+<body>
+
+</body>
+</html>
+
