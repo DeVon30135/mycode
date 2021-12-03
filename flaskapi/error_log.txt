@@ -1,0 +1,33 @@
+automation@AndroidHost01:~$ lsusb
+Bus 002 Device 065: ID 04e8:6860 Samsung Electronics Co., Ltd Galaxy (MTP)
+Bus 002 Device 067: ID 18d1:4ee2 Google Inc. Nexus 4 (debug)
+Bus 002 Device 032: ID 18d1:4ee7 Google Inc. 
+Bus 002 Device 007: ID 09ae:9401 Tripp Lite 
+Bus 002 Device 048: ID 04e8:6860 Samsung Electronics Co., Ltd Galaxy (MTP)
+Bus 002 Device 052: ID 04e8:6860 Samsung Electronics Co., Ltd Galaxy (MTP)
+Bus 002 Device 006: ID 09ae:9401 Tripp Lite 
+Bus 002 Device 005: ID 09ae:9401 Tripp Lite 
+Bus 002 Device 004: ID 09ae:9401 Tripp Lite 
+Bus 002 Device 003: ID 09ae:9401 Tripp Lite 
+Bus 002 Device 002: ID 8087:8002 Intel Corp. 
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 001 Device 003: ID 413c:a001 Dell Computer Corp. Hub
+Bus 001 Device 002: ID 8087:800a Intel Corp. 
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+automation@AndroidHost01:~$ lsusb
+Bus 002 Device 065: ID 04e8:6860 Samsung Electronics Co., Ltd Galaxy (MTP)
+Bus 002 Device 067: ID 18d1:4ee2 Google Inc. Nexus 4 (debug)
+Bus 002 Device 032: ID 18d1:4ee7 Google Inc. 
+Bus 002 Device 007: ID 09ae:9401 Tripp Lite 
+Bus 002 Device 048: ID 04e8:6860 Samsung Electronics Co., Ltd Galaxy (MTP)
+Bus 002 Device 052: ID 04e8:6860 Samsung Electronics Co., Ltd Galaxy (MTP)
+Bus 002 Device 006: ID 09ae:9401 Tripp Lite 
+Bus 002 Device 005: ID 09ae:9401 Tripp Lite 
+Bus 002 Device 068: ID 05e0:2101 Symbol Technologies 
+Bus 002 Device 004: ID 09ae:9401 Tripp Lite 
+Bus 002 Device 003: ID 09ae:9401 Tripp Lite 
+Bus 002 Device 002: ID 8087:8002 Intel Corp. 
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 001 Device 003: ID 413c:a001 Dell Computer Corp. Hub
+Bus 001 Device 002: ID 8087:800a Intel Corp. 
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
